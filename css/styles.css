@@ -21,3 +21,21 @@
 }
 
 }
+
+.thumbnail a>img, .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.thumbnail .caption {
+    padding: 9px;
+    color: #000;
+}
+
+.icon-wrapper {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 20px;
+    margin-left: 5px;
+}
