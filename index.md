@@ -9,9 +9,7 @@
                     
                       <li><a class="page-link" href="projects">Projects</a></li>
                         <li><a class="page-link" href="/">About</a></li>
-                     
-                        <li><a class="page-link" href="/conferences/">Conferences</a></li>
-    <li><a class="page-link" href="/contributors">Contributors</a></li>
+  
     <li><a class="page-link" rel="noopener noreferrer" target="_blank" href="https://github.com/">GitHub</a></li>      
                 </ul>
             </div>
