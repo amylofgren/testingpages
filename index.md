@@ -7,40 +7,12 @@
 <div class="navbar-collapse collapse" id="navbar">
                 <ul class="nav navbar-nav">
                     
-                      
+                      <li><a class="page-link" href="projects.md">Projects</a></li>
                         <li><a class="page-link" href="/">About</a></li>
-                      
-                    
-                      
-                        <li><a class="page-link" href="projects.md">Projects</a></li>
-                      
-                    
-                      
+                     
                         <li><a class="page-link" href="/conferences/">Conferences</a></li>
-                      
-                    
-                      
-                        <li><a class="page-link" href="/contributors">Contributors</a></li>
-                      
-                    
-                      
-                    
-                      
-                        <li><a class="page-link" rel="noopener noreferrer" target="_blank" href="https://github.com/">GitHub</a></li>
-                      
-                    
-                      
-                  
-                      
-                    
-                      
-                    
-                      
-                    
-                      
-                    
-                      
-                    
+    <li><a class="page-link" href="/contributors">Contributors</a></li>
+    <li><a class="page-link" rel="noopener noreferrer" target="_blank" href="https://github.com/">GitHub</a></li>      
                 </ul>
             </div>
 <div class="card thumbnail">
