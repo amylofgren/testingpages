@@ -39,3 +39,16 @@
     padding-bottom: 20px;
     margin-left: 5px;
 }
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.navbar-default .navbar-nav>li>a {
+    font-family: RotSanSer,Helvetica,Arial,sans-serif;
+    color: black;
+    text-transform: uppercase;
+    -webkit-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+}
