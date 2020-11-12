@@ -2,7 +2,7 @@
         <link rel="stylesheet" href="/testingpages/css/styles.css">
 </head>
 
-<p>Update comment</p>
+<p>Happy Thanksgiving!!!</p>
 
 <div class="navbar-collapse collapse" id="navbar">
                 <ul class="nav navbar-nav">
