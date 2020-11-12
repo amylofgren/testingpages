@@ -52,3 +52,10 @@
     -o-transition: .2s;
     transition: .2s;
 }
+
+.navbar-collapse.collapse {
+    display: block!important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+}
