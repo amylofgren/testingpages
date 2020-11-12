@@ -7,7 +7,7 @@
 <div class="navbar-collapse collapse" id="navbar">
                 <ul class="nav navbar-nav">
                     
-                      <li><a class="page-link" href="projects.md">Projects</a></li>
+                      <li><a class="page-link" href="projects.html">Projects</a></li>
                         <li><a class="page-link" href="/">About</a></li>
                      
                         <li><a class="page-link" href="/conferences/">Conferences</a></li>
