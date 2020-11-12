@@ -6,22 +6,22 @@
 
 
 <div class="card thumbnail">
-<img class="card-logo" src="/img/project/rig.png" alt="Reactive Interaction Gateway">
+<img class="card-logo" src="/img/project/rig.png" alt="an image of sorts">
 <div class="caption">
-    <h4>Reactive Interaction Gateway</h4>
-    <p>The missing link between backend and frontend -- stop polling and go real-time!</p>
+    <h4>a test title</h4>
+    <p>a test card</p>
 </div>
 <div class="icon-wrapper">
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://github.com/Accenture/reactive-interaction-gateway" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/github-logo.svg">
             </a>
         </div>
 
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://accenture.github.io/reactive-interaction-gateway/" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/document.svg">
             </a>
         </div>
@@ -32,22 +32,22 @@
 
 
 <div class="card thumbnail">
-<img class="card-logo" src="/img/project/rig.png" alt="Reactive Interaction Gateway">
+<img class="card-logo" src="/img/project/rig.png" alt="an image of sorts">
 <div class="caption">
-    <h4>Reactive Interaction Gateway</h4>
-    <p>The missing link between backend and frontend -- stop polling and go real-time!</p>
+    <h4>a test title</h4>
+    <p>a test card</p>
 </div>
 <div class="icon-wrapper">
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://github.com/Accenture/reactive-interaction-gateway" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/github-logo.svg">
             </a>
         </div>
 
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://accenture.github.io/reactive-interaction-gateway/" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/document.svg">
             </a>
         </div>
@@ -58,22 +58,22 @@
 
 
 <div class="card thumbnail">
-<img class="card-logo" src="/img/project/rig.png" alt="Reactive Interaction Gateway">
+<img class="card-logo" src="/img/project/rig.png" alt="an image of sorts">
 <div class="caption">
-    <h4>Reactive Interaction Gateway</h4>
-    <p>The missing link between backend and frontend -- stop polling and go real-time!</p>
+    <h4>a test title</h4>
+    <p>a test card</p>
 </div>
 <div class="icon-wrapper">
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://github.com/Accenture/reactive-interaction-gateway" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/github-logo.svg">
             </a>
         </div>
 
 
         <div class="icon-button" style="float:left; width: 30px; margin: 5px;">
-            <a href="https://accenture.github.io/reactive-interaction-gateway/" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 <img src="/img/icon/document.svg">
             </a>
         </div>
