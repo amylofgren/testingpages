@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<p>PROJECTS</p>
+<p>PROJECTS V2</p>
