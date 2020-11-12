@@ -12,7 +12,7 @@
                       
                     
                       
-                        <li><a class="page-link" href="/blog/">Blog</a></li>
+                        <li><a class="page-link" href="projects.md">Projects</a></li>
                       
                     
                       
@@ -30,13 +30,7 @@
                       
                     
                       
-                    
-                      
-                    
-                      
-                    
-                      
-                        <li><a class="page-link" href="/projects/">Projects</a></li>
+                  
                       
                     
                       
