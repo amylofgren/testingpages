@@ -1,0 +1,23 @@
+.thumbnail {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    min-width: 40%;
+    border-radius: 5px;
+}
+
+.card {
+    margin-top: 30px;
+    min-height: 370px;
+    max-height: 370px;
+    position: relative;
+    padding: 30px;
+}
+
+
+@media (max-width: 991px) {
+.card {
+    min-height: 300px;
+    max-height: 300px;
+}
+
+}
