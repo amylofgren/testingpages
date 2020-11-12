@@ -4,7 +4,51 @@
 
 <p>Update comment</p>
 
-
+<div class="navbar-collapse collapse" id="navbar">
+                <ul class="nav navbar-nav">
+                    
+                      
+                        <li><a class="page-link" href="/">About</a></li>
+                      
+                    
+                      
+                        <li><a class="page-link" href="/blog/">Blog</a></li>
+                      
+                    
+                      
+                        <li><a class="page-link" href="/conferences/">Conferences</a></li>
+                      
+                    
+                      
+                        <li><a class="page-link" href="/contributors">Contributors</a></li>
+                      
+                    
+                      
+                    
+                      
+                        <li><a class="page-link" rel="noopener noreferrer" target="_blank" href="https://github.com/">GitHub</a></li>
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                        <li><a class="page-link" href="/projects/">Projects</a></li>
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                </ul>
+            </div>
 <div class="card thumbnail">
 <img class="card-logo" src="/img/project/rig.png" alt="an image of sorts">
 <div class="caption">
